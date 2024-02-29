@@ -1,0 +1,26 @@
+{
+  "name": "clickmarket",
+  "version": "1.0.0",
+  "description": "Click Market E-Commerce API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahim99035/ClickMarket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahim99035/ClickMarket/issues"
+  },
+  "homepage": "https://github.com/ibrahim99035/ClickMarket#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0"
+  }
+}
