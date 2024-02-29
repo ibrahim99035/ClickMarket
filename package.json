@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ibrahim99035/ClickMarket#readme",
   "dependencies": {
+    "crypto-js": "^4.2.0",
     "dotenv": "^16.4.5",
     "express": "^4.18.2",
     "mongoose": "^8.2.0",
